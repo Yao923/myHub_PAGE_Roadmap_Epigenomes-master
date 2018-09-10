@@ -1,5 +1,5 @@
-hub PAGE_epigenomes
-shortLabel PAGE_epigenomes
-longLabel PAGE_epigenomes
+hub PAGE_lipids_epigenomes
+shortLabel PAGE_lipids_epigenomes
+longLabel PAGE_lipids_epigenomes
 genomesFile genomes.txt
 email huyao923@gmail.com
