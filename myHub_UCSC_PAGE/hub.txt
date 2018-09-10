@@ -1,0 +1,5 @@
+hub PAGE_epigenomes
+shortLabel PAGE_epigenomes
+longLabel PAGE_epigenomes
+genomesFile genomes.txt
+email stephannbien@gmail.com
