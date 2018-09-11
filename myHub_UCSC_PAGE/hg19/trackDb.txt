@@ -25,7 +25,7 @@ shortLabel Adipose
 longLabel Adipose_Nuclei_H3K27ac
 parent Overlay_Enhancer_H3K27ac
 type bigWig
-color 208,213,234
+color 250,225,149
 
 track Primary_mononuclear_cells_from_peripheral_blood_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
@@ -62,7 +62,7 @@ shortLabel Adipose
 longLabel Adipose_Nuclei_H3K27me3
 parent Overlay_Repressor_H3K27me3
 type bigWig
-color 208,213,234
+color 250,225,149
 
 track Primary_mononuclear_cells_from_peripheral_blood_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
@@ -99,7 +99,7 @@ shortLabel Adipose
 longLabel Adipose_Nuclei_H3K36me3
 parent Overlay_Transcriptn_H3K36me3
 type bigWig
-color 208,213,234
+color 250,225,149
 
 track Primary_mononuclear_cells_from_peripheral_blood_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
@@ -136,7 +136,7 @@ shortLabel Adipose
 longLabel Adipose_Nuclei_Dhs
 parent Overlay_Accessibl_Dhs
 type bigWig
-color 208,213,234
+color 250,225,149
 
 track Primary_mononuclear_cells_from_peripheral_blood_Dhs
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
@@ -170,7 +170,7 @@ shortLabel E063_Adipose_K27ac
 longLabel E063_Adipose_Nuclei_K27ac
 parent Enhancer_tracks
 type bigWig
-color 208,213,234
+color 250,225,149
 
 track E062_Primary_mononuclear_cells_from_peripheral_blood_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
@@ -204,7 +204,7 @@ shortLabel E063_Adipose_K27me3
 longLabel E063_Adipose_Nuclei_K27me3
 parent Repressor_tracks
 type bigWig
-color 208,213,234
+color 250,225,149
 
 track E062_Primary_mononuclear_cells_from_peripheral_blood_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
@@ -238,7 +238,7 @@ shortLabel E063_Adipose_Dhs
 longLabel E063_Adipose_Nuclei_Dhs
 parent DHS_tracks
 type bigWig
-color 208,213,234
+color 250,225,149
 
 track E062_Primary_mononuclear_cells_from_peripheral_blood_DNase
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
@@ -272,7 +272,7 @@ shortLabel E063_Adipose_K36me3
 longLabel E063_Adipose_Nuclei_K36me3
 parent K36me3_tracks
 type bigWig
-color 208,213,234
+color 250,225,149
 
 track E062_Primary_mononuclear_cells_from_peripheral_blood_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
