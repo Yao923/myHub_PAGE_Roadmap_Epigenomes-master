@@ -10,32 +10,32 @@ priority 1
 
 track Liver_Enhancer_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E066-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Liver_H3K27ac
-longLabel Liver_H3K27ac
+shortLabel Liver_Enhancer_H3K27ac
+longLabel Liver_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
 track Adipose_Enhancer_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E063-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Adipose_H3K27ac
-longLabel Adipose_H3K27ac
+shortLabel Adipose_Enhancer_H3K27ac
+longLabel Adipose_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
 track Liver_Enhancer_H3K4m1
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E066-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Liver_H3K4m1
-longLabel Liver_H3K4m1
+shortLabel Liver_Enhancer_H3K4m1
+longLabel Liver_Enhancer_H3K4m1
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
 track Adipose_Enhancer_H3K4m1
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E063-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Adipose_H3K4m1
-longLabel Adipose_H3K4m1
+shortLabel Adipose_Enhancer_H3K4m1
+longLabel Adipose_Enhancer_H3K4m1
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
@@ -52,16 +52,16 @@ priority 2
 
 track Liver_Repressor_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E066-H3K27me3.imputed.pval.signal.bigwig
-shortLabel Liver_H3K27me3
-longLabel Liver_H3K27me3
+shortLabel Liver_Repressor_H3K27me3
+longLabel Liver_Repressor_H3K27me3
 parent Repressor_tracks
 type bigWig
 color 255,0,0
 
 track Adipose_Repressor_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E063-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Adipose_H3K27me3
-longLabel Adipose_H3K27me3
+shortLabel Adipose_Repressor_H3K27me3
+longLabel Adipose_Repressor_H3K27me3
 parent Repressor_tracks
 type bigWig
 color 255,0,0
@@ -76,18 +76,18 @@ maxHeightPixels 150:30:11
 visibility full
 priority 3
 
-track Liver_DNase
+track Liver_DHS
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E066-DNase.imputed.pval.signal.bigwig
-shortLabel Liver_DNase
-longLabel Liver_DNase
+shortLabel Liver_DHS
+longLabel Liver_DHS
 parent DHS_tracks
 type bigWig
 color 255,165,0
 
-track Adipose_DNase
+track Adipose_DHS
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E063-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Adipose_DNase
-longLabel Adipose_DNase
+shortLabel Adipose_DHS
+longLabel Adipose_DHS
 parent DHS_tracks
 type bigWig
 color 255,165,0
@@ -104,16 +104,16 @@ priority 4
 
 track Liver_Transcriptn_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K36me3/E066-H3K36me3.imputed.pval.signal.bigwig
-shortLabel Liver_K36me3
-longLabel Liver_K36me3
+shortLabel Liver_Transcriptn_H3K36me3
+longLabel Liver_Transcriptn_H3K36me3
 parent Transcriptn_tracks
 type bigWig
 color 0,128,0
 
-track Adipose_Transcriptn_H3K36me3
+track Liver_Transcriptn_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E063-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Adipose_K36me3
-longLabel Adipose_K36me3
+shortLabel Liver_Transcriptn_H3K36me3
+longLabel Liver_Transcriptn_H3K36me3
 parent Transcriptn_tracks
 type bigWig
 color 0,128,0
