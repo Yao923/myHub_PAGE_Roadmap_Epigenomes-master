@@ -93,7 +93,7 @@ type bigWig
 color 255,165,0
 
 ################################################
-track Transcriptn_H3K36me3_tracks
+track Transcriptn_tracks
 type bigWig
 compositeTrack off
 shortLabel Transcriptn_H3K36me3_tracks
@@ -106,7 +106,7 @@ track Liver_Transcriptn_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K36me3/E066-H3K36me3.imputed.pval.signal.bigwig
 shortLabel Liver_K36me3
 longLabel Liver_K36me3
-parent Transcriptn_H3K36me3_tracks
+parent Transcriptn_tracks
 type bigWig
 color 0,128,0
 
@@ -114,6 +114,6 @@ track Adipose_Transcriptn_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E063-H3K27ac.imputed.pval.signal.bigwig
 shortLabel Adipose_K36me3
 longLabel Adipose_K36me3
-parent Transcriptn_H3K36me3_tracks
+parent Transcriptn_tracks
 type bigWig
 color 0,128,0
