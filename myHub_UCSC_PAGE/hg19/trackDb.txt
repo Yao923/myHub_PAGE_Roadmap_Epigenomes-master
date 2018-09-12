@@ -110,10 +110,10 @@ parent Transcriptn_tracks
 type bigWig
 color 0,128,0
 
-track Liver_Transcriptn_H3K36me3
+track Adipose_Transcriptn_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E063-H3K27ac.imputed.pval.signal.bigwig
-shortLabel Liver_Transcriptn_H3K36me3
-longLabel Liver_Transcriptn_H3K36me3
+shortLabel Adipose_Transcriptn_H3K36me3
+longLabel Adipose_Transcriptn_H3K36me3
 parent Transcriptn_tracks
 type bigWig
 color 0,128,0
